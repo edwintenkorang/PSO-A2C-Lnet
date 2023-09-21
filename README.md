@@ -1,20 +1,16 @@
 # PSO-A2C-Lnet
-PSO-A2C-Lnet is a collaborative project developed by myself and [P.K. Quansah](link-to-paper). This framework is designed for short-term load forecasting and is built upon a hybrid CNN-LSTM model. It also incorporates Particle Swarm Optimization (PSO) for optimizing model hyperparameters. Our research has been published in the "International Journal of Artificial Intelligence and Soft Computing," and you can access the paper [here](link-to-paper)
+PSO-A2C-Lnet is a collaborative project developed by myself and [P.K. Quansah](link-to-paper). This framework is designed for short-term load forecasting and is built upon a hybrid CNN-LSTM model. It also incorporates Particle Swarm Optimization (PSO) for optimizing model hyperparameters. Our research has been published in the "International Journal of Artificial Intelligence and Soft Computing," and you can access the paper [here](link-to-paper).
 
 ## Datasets
 This repository contains the following datasets:
 
 1. **Panama Dataset**:
-   - Includes historical load data.
-   - A comprehensive set of weather variables.
-   - Information on holidays.
-   - Historical load weekly forecast features.
+   - Includes historical load data, a comprehensive set of weather variables, information on holidays, and historical load weekly forecast features.
 
 2. **Ercot Dataset**:
    - Hourly load data specifically focused on Texas.
 
 3. **Rte Dataset**:
-   - [Include a brief description of the Rte dataset here.]
 
   ## Implementation
 
