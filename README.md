@@ -1,5 +1,5 @@
 # PSO-A2C-Lnet
-PSO-A2C-Lnet is a collaborative project developed by myself and [P.K. Quansah](link-to-paper). This framework is designed for short-term load forecasting and is built upon a hybrid CNN-LSTM model. It also incorporates Particle Swarm Optimization (PSO) for optimizing model hyperparameters. Our research has been published in the "International Journal of Artificial Intelligence and Soft Computing," and you can access the paper [here](link-to-paper).
+PSO-A2C-Lnet is a collaborative project developed by myself and [P.K. Quansah](link-to-paper). This framework is designed for short-term load forecasting and is built upon a hybrid CNN-LSTM model. It also incorporates Particle Swarm Optimization (PSO) for optimizing model hyperparameters. Our research has been published in the International Journal of Artificial Intelligence and Soft Computing, and you can access the paper [here](link-to-paper). (In Press atm - to be updated soon)
 
 ## Datasets
 This repository contains the following datasets:
